@@ -1,0 +1,24 @@
+.div-r {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.r-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.r-p {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+
+.r-img {
+  width: 120px;
+  height: 30px;
+  margin-right: 5px;
+}
